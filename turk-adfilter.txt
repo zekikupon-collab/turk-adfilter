@@ -6695,4 +6695,4 @@ dizirella.com##.videoust
 ||dizi25.life/assets/images/*.gif$image
 dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 [$domain=/sporcafe-.*\.xyz/]###betting-sites-section
-
+||www.1261mobilbahis.com^
