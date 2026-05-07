@@ -6698,3 +6698,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||www.1261mobilbahis.com^
 ||1261mobilbahis.com^
 ||1265mobilbahis.com^
+||www.1265mobilbahis.com^
