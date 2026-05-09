@@ -6701,3 +6701,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||www.1265mobilbahis.com^
 ||orhanbektas.com.tr^
 ||betdeneme.xyz^
+||1508bels.com^
