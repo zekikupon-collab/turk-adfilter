@@ -6702,3 +6702,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||orhanbektas.com.tr^
 ||betdeneme.xyz^
 ||1508bels.com^
+||www.1505bet10.com^
