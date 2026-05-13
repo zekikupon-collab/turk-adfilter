@@ -6703,3 +6703,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||betdeneme.xyz^
 ||1508bels.com^
 ||www.1505bet10.com^
+||1500bet10.com^
