@@ -6709,3 +6709,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||mobilbahis9920.com^
 ||testdomainuc.xyz^
 ||m-sekabet1340.com^
+||yogisc.com^
