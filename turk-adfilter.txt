@@ -6707,3 +6707,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||https%3A%2F%2Fmobilbahis1270.com%2Ftr^
 ||1510bet10.com^
 ||mobilbahis9920.com^
+||testdomainuc.xyz^
