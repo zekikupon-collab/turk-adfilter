@@ -6710,3 +6710,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||testdomainuc.xyz^
 ||m-sekabet1340.com^
 ||yogisc.com^
+||yogisc.xyz^
