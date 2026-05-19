@@ -6711,3 +6711,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||m-sekabet1340.com^
 ||yogisc.com^
 ||yogisc.xyz^
+||3089betnano.direct^
