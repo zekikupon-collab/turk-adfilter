@@ -6716,3 +6716,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||198.23.160.245^
 ||10001bets10.com^
 ||10002bets10.com^
+||10003bets10.com^
