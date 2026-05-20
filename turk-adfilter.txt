@@ -6712,3 +6712,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||yogisc.com^
 ||yogisc.xyz^
 ||3089betnano.direct^
+||betnono2056.direct^
