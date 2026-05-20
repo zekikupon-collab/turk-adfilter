@@ -6715,3 +6715,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||betnono2056.direct^
 ||198.23.160.245^
 ||10001bets10.com^
+||10002bets10.com^
