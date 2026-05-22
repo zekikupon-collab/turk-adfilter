@@ -6719,3 +6719,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||10003bets10.com^
 ||ayiyogitest.com^
 ||localhost^
+||1519bet10.com^
