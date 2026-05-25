@@ -6721,3 +6721,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||localhost^
 ||1519bet10.com^
 ||imajbet1149.com^
+||220supertolobet.com^
