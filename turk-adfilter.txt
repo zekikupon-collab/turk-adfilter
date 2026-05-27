@@ -6726,3 +6726,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||9940casibom.com^
 ||betcup730.com^
 ||5201casibom.com^
+||bonto.run^
