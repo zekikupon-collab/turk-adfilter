@@ -6728,3 +6728,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||5201casibom.com^
 ||bonto.run^
 ||1231betebet.com^
+||casbiom-tr.org^
