@@ -6730,3 +6730,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||1231betebet.com^
 ||casbiom-tr.org^
 ||1515bet10.com^
+||sctest6.icu^
