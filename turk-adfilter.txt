@@ -6733,3 +6733,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||sctest6.icu^
 ||1271mobilbahis.com^
 ||mobilbahis9101.com^
+||abcplatform7.com^
