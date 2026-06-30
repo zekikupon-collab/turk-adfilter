@@ -6745,3 +6745,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||1240best10.com^
 ||1263best10.com^
 ||1266best10.com^
+||1269best10.com^
