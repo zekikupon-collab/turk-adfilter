@@ -6747,3 +6747,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||1266best10.com^
 ||1269best10.com^
 ||11296bets10.com^
+||11374bets10.com^
