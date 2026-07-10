@@ -1,0 +1,14 @@
+# CI: release/develop branch'ine push'ta frontend'i derleyip yayına alır.
+# Tüm ortam ayrıntıları (yollar, portlar, domainler) sunucudaki deploy betiğindedir.
+when:
+  - event: [push, manual]
+    branch: [release, develop]
+
+steps:
+  deploy:
+    image: docker:28-cli
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/turk-adfilter:/opt/turk-adfilter
+    commands:
+      - sh /opt/turk-adfilter/deploy.sh
