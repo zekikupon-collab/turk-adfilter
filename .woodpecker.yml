@@ -1,8 +1,9 @@
-# CI: release/develop branch'ine push'ta frontend'i derleyip yayına alır.
+# CI: main/develop branch'ine push'ta frontend'i derleyip yayına alır.
+# Otomatik filtre commit'leri [skip ci] taşıdığı için siteyi yeniden build etmez.
 # Tüm ortam ayrıntıları (yollar, portlar, domainler) sunucudaki deploy betiğindedir.
 when:
   - event: [push, manual]
-    branch: [release, develop]
+    branch: [main, develop]
 
 steps:
   deploy:
