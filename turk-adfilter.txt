@@ -6755,3 +6755,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||10114bets10.com^
 ||mobilbahis9723.com^
 ||kargabet2026-guncelgiris.vip^
+||evil.com^
