@@ -6758,3 +6758,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||evil.com^
 ||jetutestserver9.com^
 ||jetutestserver11.com^
+||jetujey.icu^
