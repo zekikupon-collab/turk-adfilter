@@ -6757,3 +6757,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||kargabet2026-guncelgiris.vip^
 ||evil.com^
 ||jetutestserver9.com^
+||jetutestserver11.com^
