@@ -6759,3 +6759,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||jetutestserver9.com^
 ||jetutestserver11.com^
 ||jetujey.icu^
+||jts1.com^
