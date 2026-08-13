@@ -6766,3 +6766,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||endaminyeter.org^
 ||10023bets10.icu^
 ||canligirisanindagiris.icu^
+||anindagiris-gunceladresim.icu^
