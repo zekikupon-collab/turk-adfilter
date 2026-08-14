@@ -6769,3 +6769,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||anindagiris-gunceladresim.icu^
 ||giriskolaygiris.live^
 ||wwwpokerklas760.com^
+||casinometropolgiris.icu^
