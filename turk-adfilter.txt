@@ -6773,3 +6773,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||pay-parkingbc.com^
 ||100024bets10.com^
 ||bets10guncelgiris.icu^
+||1094betwoon.com^
