@@ -6778,3 +6778,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||11576bets10.com^
 ||panameradmin.com^
 ||11581bets10.com^
+||11022bets10.com^
