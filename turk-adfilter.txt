@@ -6781,3 +6781,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||11022bets10.com^
 ||bets101010.com^
 ||510spinco.com^
+||10208bets10.com^
