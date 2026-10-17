@@ -6791,3 +6791,4 @@ dizi25.life##img[src^="/assets/images/"][src$=".gif"]
 ||timebet-tikla-gir.com^
 ||supersc.lol^
 ||aresbet-guncel.icu^
+||bets10deneme.icu^
